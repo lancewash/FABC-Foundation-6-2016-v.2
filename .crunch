@@ -1,0 +1,44 @@
+{
+	"files": {
+		"assets/sass/fabc.scss": {
+			"engines": [
+				{
+					"compiler": "scss",
+					"output": "../css/fabc.css",
+					"options": {
+						"style": 0,
+						"comments": false
+					}
+				}
+			],
+			"sources": [
+				"_banner.scss",
+				"_button.scss",
+				"_buzzsprout.scss",
+				"_fabc-grid.scss",
+				"_fonts.scss",
+				"_footer.scss",
+				"_form.scss",
+				"_gsap.scss",
+				"_hamburger.scss",
+				"_helper.scss",
+				"_hide-menu.scss",
+				"_map.scss",
+				"_media-object.scss",
+				"_menu.scss",
+				"_mixins.scss",
+				"_pagination.scss",
+				"_parallax.scss",
+				"_reset.scss",
+				"_reveal.scss",
+				"_structure.scss",
+				"_thumbnail.scss",
+				"_tooltip.scss",
+				"_typography.scss",
+				"_variables.scss",
+				"_video.scss",
+				"fabc.scss"
+			]
+		}
+	}
+}
